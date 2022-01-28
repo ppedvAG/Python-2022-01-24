@@ -1,0 +1,6 @@
+Numpy,
+matplotlib,
+pyplot, [!]
+scipy sipcy.signal,[!]
+newLine bei write
+
