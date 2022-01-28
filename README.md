@@ -3,7 +3,7 @@
 Ein Kurs von PPEDV :rocket:
 
 
-`zeitraum: 24.01.2022 | ort: VIRTUAL CLASSROOM | format: VOLLZEIT 
+Zeitraum: 24.01.2022 | ort: VIRTUAL CLASSROOM | format: VOLLZEIT 
 
 [x] Modul 01: Python Grundlagen
 [x] Modul 02: Syntax
