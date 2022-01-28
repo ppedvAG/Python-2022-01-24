@@ -5,7 +5,7 @@ Ein Kurs von PPEDV :rocket:
 
 Zeitraum: 24.01.2022 | ort: VIRTUAL CLASSROOM | format: VOLLZEIT 
 
-[x] Modul 01: Python Grundlagen
+[ x ] Modul 01: Python Grundlagen
 [x] Modul 02: Syntax
 [x] Modul 03: Kontrollstrukturen
 [x] Modul 04: In-&Output
